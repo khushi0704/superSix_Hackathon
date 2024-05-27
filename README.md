@@ -61,11 +61,11 @@ npm start
 
 Wait for a few seconds for the program to compile. Once done, open **http://localhost:3000/** on your machine to browse the website.
 
-## Additional Information
- -Ensure that the CSV file follows the correct format for successful parsing (e.g., comma-separated values).
- -Pagination buttons are disabled when there is no data to display or only one page of data.
- -Error messages will be displayed if there are issues with file upload or data parsing.
- -For support or feedback, contact khushi.jain0704@gmail.com
+### Additional Information
+ - Ensure that the CSV file follows the correct format for successful parsing (e.g., comma-separated values).
+ - Pagination buttons are disabled when there is no data to display or only one page of data.
+ - Error messages will be displayed if there are issues with file upload or data parsing.
+ - For support or feedback, contact khushi.jain0704@gmail.com
 
 ## Conclusion:
 Thank you for using the CSV Uploader Service! We hope this application simplifies the process of uploading and parsing CSV files for your needs. 
