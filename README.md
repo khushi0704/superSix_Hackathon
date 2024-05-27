@@ -1,4 +1,4 @@
-## SuperSix Sports Hackathon
+## SuperSix Sports Hackathon - CSV UPLOADER SERVICE
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -17,7 +17,7 @@
 - [Demo](#demo)
 - [Conclusion](#conclusion)
   
-## CSV UPLOADER SERVICE
+## Introduction
 
 a web application that leverages CSV data for both display and functionality. The application should be capable of handling large datasets efficiently, provide real-time feedback during uploads, and offer a seamless user experience.  
 
