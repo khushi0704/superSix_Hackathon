@@ -12,10 +12,11 @@
   - [Install Dependencies](#install-dependencies)
   - [Start the backend server](#start-the-backend-server)
   - [Start the dev environment](#start-the-dev-environment)
-  - [Additional Information](#additional-information)
+
+- [Additional Information](#additional-information)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
-- 
+  
 ## CSV UPLOADER SERVICE
 
 a web application that leverages CSV data for both display and functionality. The application should be capable of handling large datasets efficiently, provide real-time feedback during uploads, and offer a seamless user experience.  
