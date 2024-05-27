@@ -1,6 +1,7 @@
 ## SuperSix Sports Hackathon - CSV UPLOADER SERVICE
 
 ## Table of Contents
+- [Introduction](#introduction)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
   - [CSV Upload Service](#csv-upload-service)
