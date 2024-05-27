@@ -91,5 +91,15 @@ Wait for a few seconds for the program to compile. Once done, open **http://loca
 
 https://github.com/khushi0704/superSix_Hackathon/assets/64957861/a693bda7-3189-49e1-920f-ebdca98d2b35
 
+## Detailed Explanation 
+
+ - Tailwind CSS is utilized to apply responsive and customizable styles to UI elements, facilitating rapid development and easy maintenance through its utility-first approach and extensive set of pre-defined classes.
+
+ - Multer: Multer is a middleware for handling multipart/form-data, which is primarily used for uploading files. I've configured Multer to store uploaded files on the disk with the specified destination and filename. Multer efficiently handles file uploads, allowing you to receive large CSV files without overwhelming your server's memory.
+
+ - Streaming: Instead of reading the entire CSV file into memory, I've utilized Node.js streams to process the file line by line. By piping the read stream directly into the CSV parser, you can efficiently handle large CSV files without loading the entire dataset into memory at once. This approach significantly reduces memory usage, making it suitable for handling large datasets.
+
+ - CSV Parser: I've used the csv-parser library to parse the CSV data. The csv-parser library parses CSV data row by row, emitting events for each row, which allows you to process each row individually.This streaming approach enables efficient handling of large CSV files, as you're not required to load the entire dataset into memory at once.
+
 ## Conclusion:
 Thank you for using the CSV Uploader Service! We hope this application simplifies the process of uploading and parsing CSV files for your needs. 
