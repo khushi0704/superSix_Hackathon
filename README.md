@@ -66,3 +66,6 @@ Wait for a few seconds for the program to compile. Once done, open **http://loca
  -Pagination buttons are disabled when there is no data to display or only one page of data.
  -Error messages will be displayed if there are issues with file upload or data parsing.
  -For support or feedback, contact khushi.jain0704@gmail.com
+
+## Conclusion:
+Thank you for using the CSV Uploader Service! We hope this application simplifies the process of uploading and parsing CSV files for your needs. 
