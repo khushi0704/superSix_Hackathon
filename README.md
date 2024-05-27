@@ -20,9 +20,13 @@ a web application that leverages CSV data for both display and functionality. Th
    - Implemented pagination for smooth navigation through large datasets.
    - Ensures that the UI remains responsive even with extensive data.
 
+![Pagination](https://github.com/khushi0704/superSix_Hackathon/assets/64957861/86849ea6-ff1d-4d07-9462-626439882ff8)
+
 3. **Subscription Pricing Calculator:**
    - Utilized the uploaded CSV data to develop a Subscription Pricing Calculator.
    - Calculates and displays subscription pricing based on the uploaded data.
+     
+![Subscription Price](https://github.com/khushi0704/superSix_Hackathon/assets/64957861/fccd6221-ade1-4c0d-ba35-cf5042a08beb)
 
 ## Running on Local Machine
 
