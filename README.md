@@ -2,6 +2,8 @@
 
 a web application that leverages CSV data for both display and functionality. The application should be capable of handling large datasets efficiently, provide real-time feedback during uploads, and offer a seamless user experience.  
 
+![Screenshot (399)](https://github.com/khushi0704/superSix_Hackathon/assets/64957861/19b419f4-7e43-4e9e-9ef1-8da0c18278aa)
+
 
 ## Tech Stack
  - **Frontend:** ReactJS , TailWindCSS
