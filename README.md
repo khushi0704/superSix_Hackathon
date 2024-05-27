@@ -50,9 +50,19 @@ cd superSix_Hackathon
 npm install
 ```
 
+### Start the backend server
+```bash
+nodemon server.js
+```
 ### Start the dev environment
 ```bash
-npm run dev
+npm start
 ```
 
 Wait for a few seconds for the program to compile. Once done, open **http://localhost:3000/** on your machine to browse the website.
+
+## Additional Information
+ -Ensure that the CSV file follows the correct format for successful parsing (e.g., comma-separated values).
+ -Pagination buttons are disabled when there is no data to display or only one page of data.
+ -Error messages will be displayed if there are issues with file upload or data parsing.
+ -For support or feedback, contact khushi.jain0704@gmail.com
