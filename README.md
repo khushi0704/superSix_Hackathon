@@ -26,7 +26,8 @@ a web application that leverages CSV data for both display and functionality. Th
    - Utilized the uploaded CSV data to develop a Subscription Pricing Calculator.
    - Calculates and displays subscription pricing based on the uploaded data.
      
-![Subscription Price](https://github.com/khushi0704/superSix_Hackathon/assets/64957861/fccd6221-ade1-4c0d-ba35-cf5042a08beb)
+![Screenshot (402)](https://github.com/khushi0704/superSix_Hackathon/assets/64957861/dd2bcb54-712e-4f8e-acfc-ff805412bf43)
+
 
 ## Running on Local Machine
 
